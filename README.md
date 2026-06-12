@@ -22,9 +22,6 @@ Dynamically adjust TAB weights to ensure local staff members are always sorted a
 ### 🔗 LuckPerms Meta Integration
 Seamlessly integrates with the LuckPerms Meta-Data API to instantly determine a player's origin network and real group inheritance.
 
-### ⚡ Ultra-Fast In-Memory Caching
-Features a robust internal caching system. Configuration profiles are cached in RAM upon startup/reload, ensuring near-zero CPU overhead even on high-population servers.
-
 ### 🧩 PlaceholderAPI & Relational Support
 Fully implements standard and relational placeholders for complete compatibility with advanced TAB and Chat formatters.
 
