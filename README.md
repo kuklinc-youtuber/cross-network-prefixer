@@ -1,5 +1,7 @@
 # 🌐 CrossNetworkPrefixer
 
+[![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/plugin/cross-network-prefixer)
+
 ![Built with Java 21](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/built-with/java21_vector.svg)
 ![Supported Spigot](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/supported/spigot_vector.svg)
 ![Supported Paper](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/supported/paper_vector.svg)
